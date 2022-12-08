@@ -10,7 +10,10 @@ public class PracticeRun {
 			
 			//op.practice1();
 			//op.practice2();
-			op.practice3();
+			//op.practice3();
+			op.practice4();
+			
+		
 		}
 }
 
